@@ -33,6 +33,16 @@
     --transicao: 0.2s ease;
 }
 
+
+/* imagens
+*/
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+}
+
 /* =========================
    RESET (Corrigido o hífen para asterisco *)
    ========================= */
