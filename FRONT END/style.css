@@ -43,6 +43,14 @@ img {
     border: 5px solid #fff;
 }
 
+.LOGO {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+}
+
 /* =========================
    RESET (Corrigido o hífen para asterisco *)
    ========================= */
